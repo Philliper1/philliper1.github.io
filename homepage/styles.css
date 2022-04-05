@@ -1,0 +1,73 @@
+.a {
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+
+.nav {
+    background-color: #BEA7F3;
+    height: 50px;
+}
+
+.nav-link {
+    color: black;
+    font-size: 20px;
+}
+
+#b {
+    font-size: 10px;
+}
+
+.c {
+    width: 1000px;
+    position: relative;
+    top: 110px;
+    left: 250px;
+}
+
+.g {
+    width: 600px;
+    position: relative;
+    top: 450px;
+    left: 470px;
+    text-align: center;
+}
+
+span {
+    margin-left: 4em;
+}
+
+#d {
+    position: relative;
+    transform: rotate(90deg);
+    top: 500px;
+    left: 1100px;
+}
+
+#e {
+    transform: rotate(270deg);
+    position: relative;
+    top: 500px;
+    left: -670px;
+}
+
+.f {
+    background-image: url(loading-placeholder.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+}
+
+mark {
+    background-color: black;
+}
+
+body {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.card {
+    position: relative;
+    top: 100px;
+    left: 620px;
+}
